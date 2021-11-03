@@ -2,7 +2,7 @@
 
 ## Introdução
 
-[Nesse vídeo]() falarei de mais uma [palavra que eu ouvia no começo da faculdade e não fazia ideia do que significava](https://www.youtube.com/watch?v=dp0zB4n3MUs&list=PLhkO7OMKgT_oXQtrM2JjR-AzH0-v4kRzn): Open Source
+[Nesse vídeo](https://youtu.be/WVymQIlNpAQ) falarei de mais uma [palavra que eu ouvia no começo da faculdade e não fazia ideia do que significava](https://www.youtube.com/watch?v=dp0zB4n3MUs&list=PLhkO7OMKgT_oXQtrM2JjR-AzH0-v4kRzn): Open Source
 
 ## O que é Open Source
 
