@@ -54,6 +54,7 @@ E você, alguma vez já colaborou em algum projeto open source? Me conta nos com
 
 ### Fontes
 
-https://www.debian.org/social_contract#guidelines
-https://www.totvs.com/blog/developers/como-funciona-um-software-open-source/
-https://canaltech.com.br/produtos/O-que-e-open-source/
+https://www.debian.org/social_contract#guidelines <br>
+https://www.totvs.com/blog/developers/como-funciona-um-software-open-source/ <br>
+https://canaltech.com.br/produtos/O-que-e-open-source/ <br>
+https://opensource.org/ <br>
